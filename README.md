@@ -5,6 +5,10 @@
 <h4>
     <img width="500" alt="teaser" src="doc/sort_video.gif">
 </h4>
+<div>
+    <a href="https://pepy.tech/project/ocsort"><img src="https://pepy.tech/badge/ocsort" alt="downloads"></a>
+    <a href="https://badge.fury.io/py/ocsort"><img src="https://badge.fury.io/py/ocsort.svg" alt="pypi version"></a>
+</div>
 </div>
 
 ## <div align="center">Overview</div>
